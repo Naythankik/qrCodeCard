@@ -8,7 +8,7 @@ body {
   font-size: 15px;
 }
 main {
-  width: 30%;
+  width: 25%;
   margin: 70px auto;
   padding: 10px;
   background: hsl(0, 0%, 100%);
@@ -33,9 +33,4 @@ p {
   font-weight: 400;
   color: hsl(220, 15%, 55%);
   background: none;
-  width: auto;
-  margin: 5px;
-}
-
-@media screen and (max-width: 375px) {
 }
